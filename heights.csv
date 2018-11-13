@@ -1,0 +1,21 @@
+ID,Country,Height (m),Continent,Developed
+0,Netherlands,1.838,Europe ,y
+1,Montenegro,1.832,Europe ,n
+2,Denmark,1.826,Europe ,y
+3,Norway,1.824,Europe ,y
+4,Serbia,1.82,Europe ,n
+5,Germany,1.81,Europe ,y
+6,Croatia,1.805,Europe ,n
+7,Czech Republic,1.8031,Europe ,y
+8,Slovenia,1.803,Europe ,y
+9,Luxembourg,1.799,Europe ,y
+10,Indonesia,1.58,Asia,y
+11,Bolivia,1.6,South America,n
+12,Philippines,1.619,Asia,n
+13,Vietnam,1.621,Asia,n
+14,Cambodia,1.625,Asia,n
+15,Nepal,1.63,Asia,n
+16,Ecuador,1.635,South America,n
+17,Sri Lanka,1.636,Asia,n
+18,Nigeria,1.638,Africa,n
+19,Peru,1.64,South America,n
